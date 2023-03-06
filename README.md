@@ -41,16 +41,16 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="Product">Music Player </a></td>
+            <td><a href="Playermusic">Music Player </a></td>
             <td>11/01/23</td>
             <td align="center">
             <a href="Playermusic"><img width="300px" src="Playermusic/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>02</td>
-            <td><a href="Product">Product Card</a></td>
+            <td><a href="Product%20Card">Product Card</a></td>
             <td>18/01/23</td>
-            <td align="center"><a href="Product"><img width="300px" src="Product%20Card/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="Product%20Card"><img width="300px" src="Product%20Card/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>03</td>
