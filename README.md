@@ -60,39 +60,39 @@
         </tr>
         <tr>
             <td>04</td>
-            <td><a href="04">Chat</a></td>
+            <td><a href="Chat">Chat</a></td>
             <td>01/02/23</td>
-            <td align="center"><a href="04"><img width="300px" src="04/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="Chat"><img width="300px" src="Chat/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>05</td>
-            <td><a href="05">Calculadora</a></td>
+            <td><a href="Calculadora">Calculadora</a></td>
             <td>08/02/23</td>
-            <td align="center"><a href="05"><img width="300px" src="05/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="Calculadora"><img width="300px" src="Calculadora/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>06</td>
-            <td><a href="06">Cartão de embarque</a></td>
+            <td><a href="CartaoDeEmbarque">Cartão de embarque</a></td>
             <td>15/02/23</td>
-            <td align="center" ><a href="06"><img width="300px" src="06/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="CartaoDeEmbarque"><img width="300px" src="CartaoDeEmbarque/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>07</td>
-            <td><a href="07">Site para encontrar seu bloco no carnaval</a></td>
+            <td><a href="BlocoDeCarnaval">Site para encontrar seu bloco no carnaval</a></td>
             <td>22/02/23</td>
-            <td align="center" ><a href="07"><img width="300px" src="07/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="BlocoDeCarnaval"><img width="300px" src="BlocoDeCarnaval/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>08</td>
-            <td><a href="08">Dashboard</a></td>
+            <td><a href="Dashboard">Dashboard</a></td>
             <td>01/03/23</td>
-            <td align="center" ><a href="08"><img width="300px" src="08/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="Dashboard"><img width="300px" src="Dashboard/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>09</td>
-            <td><a href="09">Conversor de moedas</a></td>
+            <td><a href="Conversor%20de%20moedas">Conversor de moedas</a></td>
             <td>08/03/23</td>
-            <td align="center" ><a href="09"><img width="300px" src="09/.github/preview.jpg" /></a></td>
+            <td align="center" ><a href="Conversor%20de%20moedas"><img width="300px" src="Conversor%20de%20moedas/.github/preview.jpg" /></a></td>
         </tr>
     </tbody>
 </table></p>
