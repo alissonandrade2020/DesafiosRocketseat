@@ -96,31 +96,31 @@
         </tr>
          <tr>
             <td>10</td>
-            <td><a href="10">Uma página de clima</a></td>
+            <td><a href="paginaclima">Uma página de clima</a></td>
             <td>15/03/23</td>
             <td align="center" ><a href="paginaclima"><img width="300px" src="paginaclima/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>11</td>
-            <td><a href="11">Uma página de login</a></td>
+            <td><a href="paginadelogin">Uma página de login</a></td>
             <td>22/03/23</td>
             <td align="center" ><a href="paginadelogin"><img width="300px" src="paginadelogin/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>12</td>
-            <td><a href="12">Um Kanban</a></td>
+            <td><a href="kanban">Um Kanban</a></td>
             <td>29/03/23</td>
             <td align="center" ><a href="kanban"><img width="300px" src="kanban/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>13</td>
-            <td><a href="13">Um formulário de cartão</a></td>
+            <td><a href="cartãodecredito">Um formulário de cartão</a></td>
             <td>05/04/23</td>
             <td align="center" ><a href="cartãodecredito"><img width="300px" src="cartãodecredito/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>14</td>
-            <td><a href="14">Um componente de upload</a></td>
+            <td><a href="upload">Um componente de upload</a></td>
             <td>12/04/23</td>
             <td align="center" ><a href="upload"><img width="300px" src="upload/.github/preview.jpg" /></a></td>
         </tr>
