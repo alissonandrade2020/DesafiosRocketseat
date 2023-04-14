@@ -94,5 +94,35 @@
             <td>08/03/23</td>
             <td align="center" ><a href="Conversor%20de%20moedas"><img width="300px" src="Conversor%20de%20moedas/.github/preview.jpg" /></a></td>
         </tr>
+         <tr>
+            <td>10</td>
+            <td><a href="10">Uma página de clima</a></td>
+            <td>15/03/23</td>
+            <td align="center" ><a href="10"><img width="300px" src="paginaclima/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td><a href="11">Uma página de login</a></td>
+            <td>22/03/23</td>
+            <td align="center" ><a href="11"><img width="300px" src="paginadelogin/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td><a href="12">Um Kanban</a></td>
+            <td>29/03/23</td>
+            <td align="center" ><a href="12"><img width="300px" src="kanban/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td><a href="13">Um formulário de cartão</a></td>
+            <td>05/04/23</td>
+            <td align="center" ><a href="13"><img width="300px" src="cartãodecredito/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td><a href="14">Um componente de upload</a></td>
+            <td>12/04/23</td>
+            <td align="center" ><a href="14"><img width="300px" src="upload/.github/preview.jpg" /></a></td>
+        </tr>
     </tbody>
 </table></p>
